@@ -32,7 +32,7 @@ credentials:
       - credentials:
         - usernamePassword:
             scope:    GLOBAL
-            id:       github-user
+            id:       faith-demo-github-user
             username: ewelina
             password: ${github:-githubPassw0rd}
             description: github username/password  
